@@ -22,7 +22,8 @@ exports.config = {
     // will be called from there.
     //
     specs: [
-        './test/specs/sampleRun.js'    ],
+        // ToDo: define location for spec files here
+    ],
     // Patterns to exclude.
     exclude: [
         // 'path/to/excluded/files'
